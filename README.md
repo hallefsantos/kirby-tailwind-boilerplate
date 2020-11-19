@@ -1,4 +1,4 @@
-# Philadelphia Rising
+# Kirby 3 Boilerplate
 
 ## Installation
 
