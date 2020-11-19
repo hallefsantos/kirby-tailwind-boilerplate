@@ -8,4 +8,11 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  purge: [
+    './resources/js/**/*.js',
+    './site/plugins/**/*.js',
+    './site/plugins/**/*.php',
+    './site/snippets/**/*.php',
+    './site/templates/**/*.php',
+  ],
 }
